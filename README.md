@@ -1,0 +1,3 @@
+        </activity>
+    </application>
+</manifest>
